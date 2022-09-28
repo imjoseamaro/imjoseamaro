@@ -1,5 +1,5 @@
 ## Olá! Eu sou o José Amaro 🖖
-• ⏳ Atualmente, tenho 16 anos <br>
+• 😊 Brasil - CE <br>
 • 📚 Estudando JavaScript <br>
 • 🙂 Pronomes: ele/dele
 
