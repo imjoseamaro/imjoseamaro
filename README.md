@@ -1,9 +1,11 @@
-### Olá! Eu sou o José Amaro 🖖
+## Olá! Eu sou o José Amaro 🖖
 • ⏳ Atualmente, tenho 16 anos <br>
 • 📚 Estudando JavaScript <br>
 • 🙂 Pronomes: ele/dele
 
 Sou um estudante de informática e entusiasta em desenvolvimento web em processo de aprendizagem.
+
+### Habilidades & Social
 
 <div>
   <a href="https://github.com/rafaballerini">
