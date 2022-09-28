@@ -1,14 +1,15 @@
 ### Olá! Eu sou o José Amaro 🖖
+• ⏳ Atualmente, tenho 16 anos <br>
+• 📚 Estudando JavaScript <br>
+• 🙂 Pronomes: ele/dele
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imjoseamaros2/)
-[![Myanimelist](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/QuindecimS2)
+Sou um estudante de informática e entusiasta em desenvolvimento web em processo de aprendizagem.
 
-
-![Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=imjoseamaro&show_icons=true&theme=tokyonight)
-
-## Tecnologias
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjoseamaro&layout=compact)](https://github.com/imjoseamaro/github-readme-stats)
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imjoseamaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjoseamaro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div style="Display: inline_block"><br/>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,4 +19,6 @@
 </div>
 <br>
 
-Sou um estudante de informática e entusiasta em desenvolvimento web em processo de aprendizagem.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imjoseamaros2/)
+[![Myanimelist](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/QuindecimS2)
+
