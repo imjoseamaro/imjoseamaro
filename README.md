@@ -1,7 +1,6 @@
 ## Olá! Eu sou o José Amaro 🖖
 • 😊 Brasil - CE <br>
-• 📚 Estudando JavaScript <br>
-• 🙂 Pronomes: ele/dele
+• 📚 Estudando PHP e MYSQL <br>
 
 Sou um estudante de informática e entusiasta em desenvolvimento web 
 
