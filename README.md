@@ -3,8 +3,7 @@
 • 📚 Estudando JavaScript <br>
 • 🙂 Pronomes: ele/dele
 
-Sou um estudante de informática e entusiasta em desenvolvimento web em processo de aprendizagem.
-
+Sou um estudante de informática e entusiasta em desenvolvimento web 
 
 <div style="Display: inline_block"><br/>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
